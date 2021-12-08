@@ -1,29 +1,5 @@
 # vue-testing-demo
 
-## Project setup
-```
-yarn install
-```
+[![codecov](https://codecov.io/gh/idenet/vue-testing-demo/branch/master/graph/badge.svg?token=NS9G1BV8RP)](https://codecov.io/gh/idenet/vue-testing-demo)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Run your unit tests
-```
-yarn test:unit
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+vue 测试
